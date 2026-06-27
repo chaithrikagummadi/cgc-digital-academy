@@ -24,14 +24,14 @@ function App() {
 
             <div className="mt-8 flex flex-wrap gap-4">
               <a
-                href="https://wa.me/919381845418"
+                href="https://wa.me/919182531184"
                 className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-2xl shadow-lg text-lg font-semibold"
               >
                 Join Free Demo Class
               </a>
 
               <a
-                href="tel:+919381845418"
+                href="tel:+919182531184"
                 className="border border-blue-600 text-blue-700 px-6 py-3 rounded-2xl text-lg font-semibold"
               >
                 Call Now
@@ -72,7 +72,7 @@ function App() {
               </select>
 
               <a
-                href="https://wa.me/919381845418"
+                href="https://wa.me/919182531184"
                 className="block text-center bg-blue-600 hover:bg-blue-700 text-white py-3 rounded-xl text-lg font-semibold"
               >
                 Enroll via WhatsApp
@@ -219,17 +219,17 @@ function App() {
 
           <div className="mt-10 flex justify-center gap-4 flex-wrap">
             <a
-              href="https://wa.me/919381845418"
+              href="https://wa.me/919182531184"
               className="bg-white text-blue-700 px-8 py-4 rounded-2xl shadow-lg text-xl font-semibold"
             >
               WhatsApp Now
             </a>
 
             <a
-              href="tel:+919381845418"
+              href="tel:+919182531184"
               className="border border-white text-white px-8 py-4 rounded-2xl text-xl font-semibold"
             >
-              Call 9381845418
+              Call 9182531184
             </a>
           </div>
         </div>
@@ -243,7 +243,7 @@ function App() {
 
         <p className="mt-3">Madhapur | Online Flexible Training</p>
 
-        <p className="mt-2">Phone: 9381845418</p>
+        <p className="mt-2">Phone: 9182531184</p>
 
         <p className="mt-4 text-sm">
           © 2026 Digital Asif Agency. All Rights Reserved.
