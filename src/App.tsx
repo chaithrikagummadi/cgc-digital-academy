@@ -6,7 +6,7 @@ function App() {
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-10 items-center">
           <div>
             <h1 className="text-4xl md:text-6xl font-bold text-blue-700 leading-tight">
-              CGC Digital Academy
+              Digital Asif Agency
             </h1>
 
             <p className="mt-6 text-xl text-gray-700 leading-relaxed">
@@ -86,7 +86,7 @@ function App() {
       <section className="py-16 px-6 md:px-20">
         <div className="max-w-6xl mx-auto text-center">
           <h2 className="text-4xl font-bold text-blue-700">
-            Why Choose CGC Digital Academy?
+            Why Choose Digital asif Agency
           </h2>
 
           <div className="grid md:grid-cols-3 gap-8 mt-12">
@@ -155,7 +155,7 @@ function App() {
 
             <div className="bg-white rounded-3xl shadow-lg p-8">
               <h3 className="text-3xl font-bold text-blue-700 mb-4">
-                Google Ads & Meta Ads – 3 Weeks
+                Google & Meta Ads – 3 Weeks
               </h3>
 
               <ul className="space-y-2 text-gray-700 leading-relaxed">
@@ -182,6 +182,8 @@ function App() {
                 <li>✔ Professional Targeting</li>
                 <li>✔ LinkedIn Lead Generation</li>
                 <li>✔ Sponsored Content Ads</li>
+                <li>✔ Complete Market Research</li>
+                <li>✔ LinkedIn Profile Optimization</li>
               </ul>
             </div>
 
@@ -191,12 +193,7 @@ function App() {
               </h3>
 
               <ul className="space-y-2 text-gray-700 leading-relaxed">
-                <li>✔ Resume Building</li>
-                <li>✔ Interview Cracking Tips</li>
-                <li>✔ Freelancing Guidance</li>
-                <li>✔ Fiverr & Upwork Basics</li>
-                <li>✔ Portfolio Building</li>
-                <li>✔ Client Acquisition Methods</li>
+                <li>✔ Resumat Acquisition Methods</li>
                 <li>✔ Personal Branding</li>
               </ul>
             </div>
@@ -213,7 +210,7 @@ function App() {
 
           <p className="mt-6 text-xl leading-relaxed">
             Learn practical skills, work on live projects, build your career,
-            and explore freelancing opportunities with CGC Digital Academy.
+            and explore freelancing opportunities with Digital Asif Agency
           </p>
 
           <div className="mt-10 flex justify-center gap-4 flex-wrap">
@@ -237,7 +234,7 @@ function App() {
       {/* Footer */}
       <footer className="bg-gray-100 py-10 text-center text-gray-600">
         <h3 className="text-2xl font-bold text-blue-700">
-          CGC Digital Academy
+          Digital Asif Agency
         </h3>
 
         <p className="mt-3">Madhapur | Online Flexible Training</p>
@@ -245,7 +242,7 @@ function App() {
         <p className="mt-2">Phone: 9381845418</p>
 
         <p className="mt-4 text-sm">
-          © 2026 CGC Digital Academy. All Rights Reserved.
+          © 2026 Digital Asif Agency. All Rights Reserved.
         </p>
       </footer>
     </div>
