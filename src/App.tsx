@@ -149,7 +149,6 @@ function App() {
                 <li>✔ GA4 Tracking & Analytics</li>
                 <li>✔ SEO Reporting</li>
                 <li>✔ Live Website Optimization</li>
-                <li>✔ Real-Time SEO Projects</li>
               </ul>
             </div>
 
@@ -193,7 +192,12 @@ function App() {
               </h3>
 
               <ul className="space-y-2 text-gray-700 leading-relaxed">
-                <li>✔ Resumat Acquisition Methods</li>
+                <li>✔ Resume Building</li>
+                <li>✔ Interview Preparation</li>
+                <li>✔ Freelancing Guidance</li>
+                <li>✔ Fiverr & Upwork Training</li>
+                <li>✔ Portfolio Development</li>
+                <li>✔ Client Acquisition Methods</li>
                 <li>✔ Personal Branding</li>
               </ul>
             </div>
